@@ -1,7 +1,7 @@
 # Quant-Finance
-ASSIGNMENT - 1 
-Write a Python script to analyze historical stock data for a NIFTY50 stock from Yahoo Finance for the period from August 1, 2023, to July 29th, 2025. The script should:
+Python script to analyze historical stock data for a NIFTY50 stock from Yahoo Finance for the period from August 1, 2023, to July 29th, 2025. 
 
+TO DOs : 
 Install the necessary libraries (numpy, pandas, yfinance, matplotlib). 
 Download the data for the given period. Extract the Open, High, Low, Close, and Volume columns. 
 Calculate and plot the 14-day and 50-day relative strength index (RSI) on the same graph, with different colors for each RSI. 
